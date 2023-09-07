@@ -21,9 +21,11 @@ Você pode entrar em contato comigo por:
 Será um prazer falar com você! 😄
 <br>
 <br>
+
 # Habilidade e Ferramentas
 
-<i class="devicon-javascript-plain colored"></i>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 
 <!--
 **taisoliva/taisoliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
