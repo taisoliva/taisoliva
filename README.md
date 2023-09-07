@@ -1,4 +1,5 @@
 ### Hello World, eu sou Taís Carvalho 👋
+## Prazer em ter você no meu perfil GitHub 👋
 
 Sou desenvolvedora web full stack, bacharel em matemática, amante de jogos antigos 🎮 e eterna estudante 🧑‍🎓
 
@@ -13,7 +14,7 @@ Sou desenvolvedora web full stack, bacharel em matemática, amante de jogos anti
 
 Você pode entrar em contato comigo por: 
 
-[![LinkedIn](https://www.example.com/linkedin-logo.png)](https://www.linkedin.com/in/taísoliva/)
+<a href="https://www.linkedin.com/in/taísoliva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 <!--
 **taisoliva/taisoliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
