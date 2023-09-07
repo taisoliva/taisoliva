@@ -12,7 +12,7 @@ Sou desenvolvedora web full stack, bacharel em matemática, amante de jogos anti
   
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966" width="400" height="230" />
 
-Você pode entrar em contato comigo por: 
+### Você pode entrar em contato comigo por: 
 
 <a href="https://www.linkedin.com/in/taísoliva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
@@ -59,6 +59,24 @@ Será um prazer falar com você! 😄
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+#
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img height="172em" alt="Susana's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taisoliva&count_private=true&show_icons=true&theme=rose_pine&bg_color"/>
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  <img height="172em" alt="Susana's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisoliva&layout=compact&langs_count=10&theme=rose_pine&bg_color&hide=python"/>
+</details>
+
+<details>
+  <summary>:zap: Github Streak Stats</summary>
+  <img height="172em" alt="Susana's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=taisoliva&theme=rose_pine&bg_color&hide=python"/>
+</details>
+
 <!--
 **taisoliva/taisoliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
