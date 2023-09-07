@@ -24,16 +24,18 @@ Será um prazer falar com você! 😄
 
 # Habilidade e Ferramentas
 
-  ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)&nbsp;
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)&nbsp;
-  ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)&nbsp;
-  ![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=red)&nbsp;
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=Prisma)
   ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5)&nbsp;
   ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
   ![Styled Components](https://img.shields.io/badge/Styled--Components-000?style=for-the-badge&logo=styled-components)&nbsp;
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
   ![Npm](https://img.shields.io/badge/Npm-000?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
   ![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=Jest&logoColor=red)&nbsp;
   ![Json](https://img.shields.io/badge/-Json-000?&style=for-the-badge&logo=json)&nbsp;
