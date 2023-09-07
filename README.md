@@ -1,7 +1,11 @@
-### Oi eu sou Taís Carvalho, desenvolvedora web full stack 👋
+### Hello World, eu sou Taís Carvalho 👋
+
+Sou desenvolvedora web full stack, bacharel em matemática, amante de jogos antigos 🎮 e eterna estudante 🧑‍🎓
 
 <!--
 **taisoliva/taisoliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
