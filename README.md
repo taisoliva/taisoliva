@@ -18,6 +18,9 @@ Você pode entrar em contato comigo por:
 
 <a href = "mailto:tais15oliva@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+Será um prazer falar com você! 😄
+
+# Habilidade e Ferramentas
 <!--
 **taisoliva/taisoliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
