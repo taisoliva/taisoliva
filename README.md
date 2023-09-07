@@ -77,6 +77,8 @@ Será um prazer falar com você! 😄
   <img height="172em" alt="Susana's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=taisoliva&theme=rose_pine&bg_color"/>
 </details>
 
+![Snake animation](https://github.com/taisoliva/taisoliva/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **taisoliva/taisoliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
