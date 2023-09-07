@@ -64,17 +64,17 @@ Será um prazer falar com você! 😄
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img height="172em" alt="Susana's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taisoliva&count_private=true&show_icons=true&theme=rose_pine&bg_color"/>
+  <img height="172em" alt="Tais's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taisoliva&count_private=true&show_icons=true&theme=rose_pine&bg_color"/>
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <img height="172em" alt="Susana's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisoliva&layout=compact&langs_count=10&theme=rose_pine&bg_color&hide=python"/>
+  <img height="172em" alt="Tais's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisoliva&layout=compact&langs_count=10&theme=rose_pine&bg_color"/>
 </details>
 
 <details>
   <summary>:zap: Github Streak Stats</summary>
-  <img height="172em" alt="Susana's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=taisoliva&theme=rose_pine&bg_color&hide=python"/>
+  <img height="172em" alt="Susana's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=taisoliva&theme=rose_pine&bg_color"/>
 </details>
 
 <!--
