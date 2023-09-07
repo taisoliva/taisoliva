@@ -25,33 +25,40 @@ Será um prazer falar com você! 😄
 # Habilidade e Ferramentas
 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=Prisma)
-  ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5)&nbsp;
-  ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![Styled Components](https://img.shields.io/badge/Styled--Components-000?style=for-the-badge&logo=styled-components)&nbsp;
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
   ![Npm](https://img.shields.io/badge/Npm-000?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-  ![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=Jest&logoColor=red)&nbsp;
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Json](https://img.shields.io/badge/-Json-000?&style=for-the-badge&logo=json)&nbsp;
-  ![Postman](https://img.shields.io/badge/-Postman-000?&style=for-the-badge&logo=postman)&nbsp;
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)&nbsp;
   ![Redis](https://img.shields.io/badge/Redis-000?&style=for-the-badge&logo=Redis&logoColor=red)&nbsp;
-  ![Webpack](https://img.shields.io/badge/-Webpack-000?style=for-the-badge&logo=Webpack)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)&nbsp;
-  ![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
-  ![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)&nbsp;
-  ![Eslint](https://img.shields.io/badge/-Eslint-000?style=for-the-badge&logo=eslint)&nbsp;
+  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
   ![Prettier](https://img.shields.io/badge/-Prettier-000?style=for-the-badge&logo=prettier)&nbsp;
-  ![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion)&nbsp;
-  ![Trello](https://img.shields.io/badge/Trello-000?style=for-the-badge&logo=trello&logoColor=blue)&nbsp;
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   ![Figma](https://img.shields.io/badge/-Figma-000?&style=for-the-badge&logo=figma)&nbsp;
+  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <!--
 **taisoliva/taisoliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
