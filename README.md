@@ -5,7 +5,7 @@ Sou desenvolvedora web full stack, bacharel em matemática pela <a href="https:/
 Como gosto de estudar inicializei uma segunda gradução em sistemas de computação também pela <a href="https://www.uff.br/"> UFF </a>.
 
 - 🎓 Estudando Desenvolvimento Web Full Stack e Engenharia de Software pela <a href="https://www.driven.com.br/"> Driven Education </a>.
-- 👯 Estou colaborando em um projeto voluntário de desenvolvimento.
+- 👯 Estou colaborando em um projeto voluntário de desenvolvimento no <a href="https://meninadeux.com/"> Menina de UX </a>.
 - 🌱 Estou aprendendo sobre NextJs e Docker no momento.
 - 💬 Pode me perguntar sobre qualquer coisa, não sei tudo, mas gosto de aprender.
 - 😄 Pronomes: She/Her, ela/dela.
