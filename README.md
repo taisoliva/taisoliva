@@ -1,5 +1,5 @@
-### Hello World, eu sou Taís Carvalho 👋
-## Prazer em ter você no meu perfil GitHub 👋
+## Hello World, eu sou Taís Carvalho 👋
+### Prazer em ter você no meu perfil GitHub 👋
 
 Sou desenvolvedora web full stack, bacharel em matemática pela <a href="https://www.uff.br/"> UFF </a>, amante de jogos antigos 🎮 e resolver problemas 🧑‍🎓
 Como gosto de estudar inicializei uma segunda gradução em sistemas de computação também pela <a href="https://www.uff.br/"> UFF </a>.
