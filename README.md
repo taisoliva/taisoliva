@@ -1,7 +1,7 @@
 ### Hello World, eu sou Taís Carvalho 👋
 ## Prazer em ter você no meu perfil GitHub 👋
 
-Sou desenvolvedora web full stack, bacharel em matemática pela <a href="https://www.uff.br/"> UFF </a>, amante de jogos antigos 🎮 e eterna estudante 🧑‍🎓
+Sou desenvolvedora web full stack, bacharel em matemática pela <a href="https://www.uff.br/"> UFF </a>, amante de jogos antigos 🎮 e amante do conhecimento 🧑‍🎓
 Como gosto de estudar inicializei uma segunda gradução em sistemas de computação também pela <a href="https://www.uff.br/"> UFF </a>.
 
 Ao realizar uma aula de html fiquei encantada com a possibilidade de transformar ideias em algo que as pessoas podem utilizar. Me apaixonei para área de desenvolvimento e desde então tenho procurado aprender cada vez mais.
