@@ -78,7 +78,7 @@ Será um prazer falar com você! 😄
 
 <details>
   <summary>:zap: Github Streak Stats</summary>
-  <img height="172em" alt="Susana's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=taisoliva&theme=rose_pine&bg_color"/>
+  <img height="172em" alt="Tais's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=taisoliva&theme=rose_pine&bg_color"/>
 </details>
 
 
