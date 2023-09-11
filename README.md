@@ -4,7 +4,7 @@
 Sou desenvolvedora web full stack, bacharel em matemática pela <a href="https://www.uff.br/"> UFF </a>, amante de jogos antigos 🎮 e resolver problemas 🧑‍🎓
 Como gosto de estudar iniciei uma segunda gradução em sistemas de computação também pela <a href="https://www.uff.br/"> UFF </a>.
 
-Ao realizar uma aula de html fiquei encantada com a possibilidade de transformar ideias em algo que as pessoas podem utilizar. Me apaixonei para área de desenvolvimento e desde então tenho procurado aprender cada vez mais.
+Ao realizar uma aula de HTML fiquei encantada com a possibilidade de transformar ideias em algo que as pessoas podem utilizar. Me apaixonei para área de desenvolvimento e desde então tenho procurado aprender cada vez mais.
 
 - 🎓 Estudando Desenvolvimento Web Full Stack e Engenharia de Software pela <a href="https://www.driven.com.br/"> Driven Education </a>.
 - 👯 Estou colaborando como desenvolvedora voluntária no projeto <a href="https://meninadeux.com/"> Menina de UX </a>.
